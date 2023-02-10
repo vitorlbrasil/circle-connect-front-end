@@ -1,0 +1,10 @@
+.logoDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.logoDiv h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
